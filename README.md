@@ -20,6 +20,6 @@ b)Go to xampp control panel and make sure mysql service is in running state.
 
 c)Open index.htm in your browser.
 
-5)Finally run index.htm and enjoy!
+5)Finally run index.html and enjoy!
 
 Feel free to ask queries if facing any issues in installation. 
